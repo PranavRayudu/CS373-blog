@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pranav Rayudu's Blog]]></title><description><![CDATA[Pranav Rayudu's blog]]></description><link>https://pranavrayudu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 30 Aug 2021 03:31:33 GMT</lastBuildDate><item><title><![CDATA[CS373 Fall 2021: Taraka Pranav Rayudu]]></title><description><![CDATA[Where did you grow up? I spent the first half of my life in Bangalore, India. After I turned 13, my parents decided to move to the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pranav Rayudu's Blog]]></title><description><![CDATA[Pranav Rayudu's blog]]></description><link>https://pranavrayudu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 30 Aug 2021 03:43:50 GMT</lastBuildDate><item><title><![CDATA[CS373 Fall 2021: Taraka Pranav Rayudu]]></title><description><![CDATA[Where did you grow up? I spent the first half of my life in Bangalore, India. After I turned 13, my parents decided to move to the
 States…]]></description><link>https://pranavrayudu.github.io/about-me/</link><guid isPermaLink="false">https://pranavrayudu.github.io/about-me/</guid><pubDate>Wed, 29 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -45,7 +45,7 @@ yet ambitious atmosphere as we competed among thousands (3,790, to be exact) of 
 &lt;a href=&quot;https://www.firstinspires.org/robotics/frc&quot;&gt;FIRST Robotics competition&lt;/a&gt;. We were not allowed to work on the robot after
 a certain date so every regional event started off with me uploading new, untested code into the robot followed by near
 complete failure and a melt-down in the entire team. I usually fixed this pretty quickly, but it taught me the
-importance of writing bulletproof, readable, and flexible code that can adapt to new situations.&lt;/p&gt;
+importance of writing bulletproof code.&lt;/p&gt;
 &lt;h3&gt;Why did you come to UT?&lt;/h3&gt;
 &lt;p&gt;UT is hands-down one of the best universities for Computer Science in the United States, so that made choosing UT very
 obvious from the get-go.&lt;/p&gt;
@@ -57,26 +57,26 @@ problem-solving and making web apps and lo and behold… I am now a CS major.&lt
 &lt;h3&gt;Why are you in this class?&lt;/h3&gt;
 &lt;p&gt;I heard this class was a classic, must-take for a CS major at UT, so I wanted to see what it was about.&lt;/p&gt;
 &lt;h3&gt;What are your expectations of this class?&lt;/h3&gt;
-&lt;p&gt;I hope to become proficient at writing software in teams of 100+ members and know how to tackle the challenges that
-arise when working is large development teams.&lt;/p&gt;
+&lt;p&gt;I hope to become proficient at writing software in large teams and know how to use all relevant tooling for such large
+teams.&lt;/p&gt;
 &lt;h3&gt;How much Javascript/Python/SQL/Web programming do you already know?&lt;/h3&gt;
 &lt;p&gt;I am fairly proficient in javascript and web programming since I picked those up early in high school. I use Python for
-my projects frequently and I used SQL for my past internship, so I have a working knowledge of all these languages
-already.&lt;/p&gt;
+some of my projects and I used SQL for my past internship, so I have a some exposure to all these languages.&lt;/p&gt;
 &lt;h3&gt;How did you like the first lectures?&lt;/h3&gt;
 &lt;p&gt;The best parts of lecture was using the versatility of Ed Discussion to ask questions in class and using a git repo
 for lecture notes. I do wish it was more fast-paced though.&lt;/p&gt;
 &lt;h3&gt;How did you feel about the cold calling?&lt;/h3&gt;
-&lt;p&gt;I have no problem with cold calling, but I am afraid not being able to unmute myself or having some other technical
-issue on the spot.&lt;/p&gt;
+&lt;p&gt;I am fine with it, but I need a couple of seconds before talking in front of the whole class and I am afraid not being
+able to unmute myself or having some other technical issue on the spot.&lt;/p&gt;
 &lt;h3&gt;What made you happy this week?&lt;/h3&gt;
 &lt;p&gt;I bought a new bike to commute to campus and it works perfectly! I have even ridden to downtown Austin with it and
 it is overall a lot of fun.&lt;/p&gt;
 &lt;h3&gt;What’s your pick-of-the-week or tip-of-the-week?&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://people.csail.mit.edu/jiex/papers/robogrammar/index.html&quot;&gt;RoboGrammar&lt;/a&gt; is a 2020 MIT paper which describes a graph-based approach to generate robot structures like body joints
-and links. Basically, they describe a way to generate graphs that can be turned into robots that are optimized for smooth
-surfaces, stepped surfaces, etc. It is cool because even with a few nodes, you can generate a huge variety of robots.
-Here is &lt;a href=&quot;https://people.csail.mit.edu/jiex/papers/robogrammar/paper.pdf&quot;&gt;the paper&lt;/a&gt; and
+&lt;p&gt;&lt;a href=&quot;https://people.csail.mit.edu/jiex/papers/robogrammar/index.html&quot;&gt;RoboGrammar&lt;/a&gt; is a 2020 MIT paper which describes a
+graph-based approach to generate robot structures like body joints and links. Basically, they describe a way to
+generate graphs that can be turned into robots that are optimized for smooth surfaces, stepped surfaces, etc.
+It is cool because even with a few nodes, you can generate a huge variety of robots. Here is
+&lt;a href=&quot;https://people.csail.mit.edu/jiex/papers/robogrammar/paper.pdf&quot;&gt;the paper&lt;/a&gt; and
 &lt;a href=&quot;https://github.com/allanzhao/RoboGrammar/&quot;&gt;source code&lt;/a&gt; if you want to check it out.
 I even a linked a quick video down below for you :).&lt;/p&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube-nocookie.com/embed/rSPwOeX46UA&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item></channel></rss>
