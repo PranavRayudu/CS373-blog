@@ -20,7 +20,7 @@ yet ambitious atmosphere as we competed among thousands (3,790, to be exact) of 
 [FIRST Robotics competition](https://www.firstinspires.org/robotics/frc). We were not allowed to work on the robot after
 a certain date so every regional event started off with me uploading new, untested code into the robot followed by near
 complete failure and a melt-down in the entire team. I usually fixed this pretty quickly, but it taught me the 
-importance of writing bulletproof, readable, and flexible code that can adapt to new situations.
+importance of writing bulletproof code.
 
 ### Why did you come to UT?
 UT is hands-down one of the best universities for Computer Science in the United States, so that made choosing UT very 
@@ -36,31 +36,31 @@ problem-solving and making web apps and lo and behold... I am now a CS major.
 I heard this class was a classic, must-take for a CS major at UT, so I wanted to see what it was about.
 
 ### What are your expectations of this class?
-I hope to become proficient at writing software in teams of 100+ members and know how to tackle the challenges that 
-arise when working is large development teams.
+I hope to become proficient at writing software in large teams and know how to use all relevant tooling for such large 
+teams.
 
 ### How much Javascript/Python/SQL/Web programming do you already know?
 I am fairly proficient in javascript and web programming since I picked those up early in high school. I use Python for 
-my projects frequently and I used SQL for my past internship, so I have a working knowledge of all these languages 
-already. 
+some of my projects and I used SQL for my past internship, so I have a some exposure to all these languages.
 
 ### How did you like the first lectures?
 The best parts of lecture was using the versatility of Ed Discussion to ask questions in class and using a git repo 
 for lecture notes. I do wish it was more fast-paced though.
 
 ### How did you feel about the cold calling?
-I have no problem with cold calling, but I am afraid not being able to unmute myself or having some other technical 
-issue on the spot.
+I am fine with it, but I need a couple of seconds before talking in front of the whole class and I am afraid not being 
+able to unmute myself or having some other technical issue on the spot.
 
 ### What made you happy this week?
 I bought a new bike to commute to campus and it works perfectly! I have even ridden to downtown Austin with it and
 it is overall a lot of fun.
 
 ### What's your pick-of-the-week or tip-of-the-week?
-[RoboGrammar](https://people.csail.mit.edu/jiex/papers/robogrammar/index.html) is a 2020 MIT paper which describes a graph-based approach to generate robot structures like body joints
-and links. Basically, they describe a way to generate graphs that can be turned into robots that are optimized for smooth
-surfaces, stepped surfaces, etc. It is cool because even with a few nodes, you can generate a huge variety of robots. 
-Here is [the paper](https://people.csail.mit.edu/jiex/papers/robogrammar/paper.pdf) and 
+[RoboGrammar](https://people.csail.mit.edu/jiex/papers/robogrammar/index.html) is a 2020 MIT paper which describes a 
+graph-based approach to generate robot structures like body joints and links. Basically, they describe a way to 
+generate graphs that can be turned into robots that are optimized for smooth surfaces, stepped surfaces, etc. 
+It is cool because even with a few nodes, you can generate a huge variety of robots. Here is 
+[the paper](https://people.csail.mit.edu/jiex/papers/robogrammar/paper.pdf) and 
 [source code](https://github.com/allanzhao/RoboGrammar/) if you want to check it out. 
 I even a linked a quick video down below for you :).
 
