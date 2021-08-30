@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Pranav Rayudu's Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Pranav Rayudu`,
+      summary: `who is a student majoring in Computer Science in the University of Texas at Austin.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Pranav Rayudu's blog`,
+    siteUrl: `https://pranavrayudu.github.io/`,
     social: {
-      twitter: `kylemathews`,
+      github: `PranavRayudu`,
     },
   },
   plugins: [
