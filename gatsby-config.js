@@ -3,7 +3,7 @@ module.exports = {
     title: `Pranav Rayudu's Blog`,
     author: {
       name: `Pranav Rayudu`,
-      summary: `who is a student majoring in Computer Science in the University of Texas at Austin.`,
+      summary: `who is an undergrad studying Computer Science at the University of Texas at Austin.`,
     },
     description: `Pranav Rayudu's blog`,
     siteUrl: `https://pranavrayudu.github.io/`,
