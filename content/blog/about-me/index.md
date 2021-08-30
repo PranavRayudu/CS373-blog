@@ -19,8 +19,7 @@ I found our newly minted Robotics club to be the best extracurricular I particip
 yet ambitious atmosphere as we competed among thousands (3,790, to be exact) of other teams in the 
 [FIRST Robotics competition](https://www.firstinspires.org/robotics/frc). We were not allowed to work on the robot after
 a certain date so every regional event started off with me uploading new, untested code into the robot followed by near
-complete failure and a melt-down in the entire team. I usually fixed this pretty quickly, but it taught me the 
-importance of writing bulletproof code.
+complete failure and a melt-down in the entire team. Atleast it taught me the importance of writing bulletproof code.
 
 ### Why did you come to UT?
 UT is hands-down one of the best universities for Computer Science in the United States, so that made choosing UT very 
@@ -48,8 +47,8 @@ The best parts of lecture was using the versatility of Ed Discussion to ask ques
 for lecture notes. I do wish it was more fast-paced though.
 
 ### How did you feel about the cold calling?
-I am fine with it, but I need a couple of seconds before talking in front of the whole class and I am afraid not being 
-able to unmute myself or having some other technical issue on the spot.
+I am fine with it, but I need a couple of seconds before talking in front of the whole class and I am afraid of not 
+being able to unmute myself or having some other technical issue on the spot.
 
 ### What made you happy this week?
 I bought a new bike to commute to campus and it works perfectly! I have even ridden to downtown Austin with it and
