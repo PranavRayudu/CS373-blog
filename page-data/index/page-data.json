@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Pranav Rayudu's Blog"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Where did you grow up? I spent the first half of my life in Bangalore, India. After I turned 13, my parents decided to move to the\nStates…","fields":{"slug":"/hello-world/"},"frontmatter":{"date":"September 29, 2021","title":"CS373 Fall 2021: Taraka Pranav Rayudu","description":"About Myself"}}]}},"pageContext":{}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Pranav Rayudu's Blog"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Where did you grow up? I spent the first half of my life in Bangalore, India. After I turned 13, my parents decided to move to the\nStates…","fields":{"slug":"/hello-world/"},"frontmatter":{"date":"September 29, 2021","title":"CS373 Fall 2021: Taraka Pranav Rayudu","description":"A bit about myself for blog post week #1 for SWE"}}]}},"pageContext":{}},
     "staticQueryHashes": ["230163734","3589320610"]}
