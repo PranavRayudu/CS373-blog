@@ -1,231 +1,67 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: 'CS373 Fall 2021: Taraka Pranav Rayudu'
+date: "2021-09-29"
+description: "About Myself"
 ---
-
-This is my first post on my new fake blog! How exciting!
-
-I'm sure I'll write a lot more interesting things in the future.
-
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
-
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
-
-You can also write code blocks here!
-
-```js
-const saltyDuckEgg = "chinese preserved food product"
-```
-
-| Number | Title                                    | Year |
-| :----- | :--------------------------------------- | ---: |
-| 1      | Harry Potter and the Philosopher’s Stone | 2001 |
-| 2      | Harry Potter and the Chamber of Secrets  | 2002 |
-| 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
-
-[View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
-
-This is a paragraph.
-
-    This is a paragraph.
-
-# Header 1
-
-## Header 2
-
-    Header 1
-    ========
-
-    Header 2
-    --------
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1
-    ## Header 2
-    ### Header 3
-    #### Header 4
-    ##### Header 5
-    ###### Header 6
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1 #
-    ## Header 2 ##
-    ### Header 3 ###
-    #### Header 4 ####
-    ##### Header 5 #####
-    ###### Header 6 ######
-
-> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-    > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-> ## This is a header.
->
-> 1. This is the first list item.
-> 2. This is the second list item.
->
-> Here's some example code:
->
->     Markdown.generate();
-
-    > ## This is a header.
-    > 1. This is the first list item.
-    > 2. This is the second list item.
-    >
-    > Here's some example code:
-    >
-    >     Markdown.generate();
-
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-
-```markdown
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-```
-
-- `code goes` here in this line
-- **bold** goes here
-
-```markdown
-- `code goes` here in this line
-- **bold** goes here
-```
-
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-
-```markdown
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-```
-
-1. `code goes` here in this line
-1. **bold** goes here
-
-```markdown
-1. `code goes` here in this line
-1. **bold** goes here
-```
-
-Paragraph:
-
-    Code
-
-<!-- -->
-
-    Paragraph:
-
-        Code
-
----
-
----
-
----
-
----
-
----
-
-    * * *
-
-    ***
-
-    *****
-
-    - - -
-
-    ---------------------------------------
-
-This is [an example](http://example.com "Example") link.
-
-[This link](http://example.com) has no title attr.
-
-This is [an example][id] reference-style link.
-
-[id]: http://example.com "Optional Title"
-
-    This is [an example](http://example.com "Example") link.
-
-    [This link](http://example.com) has no title attr.
-
-    This is [an example] [id] reference-style link.
-
-    [id]: http://example.com "Optional Title"
-
-_single asterisks_
-
-_single underscores_
-
-**double asterisks**
-
-**double underscores**
-
-    *single asterisks*
-
-    _single underscores_
-
-    **double asterisks**
-
-    __double underscores__
-
-This paragraph has some `code` in it.
-
-    This paragraph has some `code` in it.
-
-![Alt Text](https://placehold.it/200x50 "Image Title")
-
-    ![Alt Text](https://placehold.it/200x50 "Image Title")
+![profile-photo](./profile-photo.jpg)
+
+### Where did you grow up?
+I spent the first half of my life in Bangalore, India. After I turned 13, my parents decided to move to the 
+States, so I moved to San Antonio, Texas where I entered middle school at 7<sup>th</sup> grade.
+Three years later, I moved to Dallas, TX where I completed high school. 
+
+### What high school did you attend?
+I spent my freshman year at Ronald Reagan High School in San Antonio and sophomore through senior years at Keller High 
+School in Keller.
+
+### What was your favorite extracurricular activity in high school?
+I found our newly minted Robotics club to be the best extracurricular I participated in. We had a humble 
+yet ambitious atmosphere as we competed among thousands (3,790, to be exact) of other teams in the 
+[FIRST Robotics competition](https://www.firstinspires.org/robotics/frc). We were not allowed to work on the robot after
+a certain date so every regional event started off with me uploading new, untested code into the robot followed by near
+complete failure and a melt-down in the entire team. I usually fixed this pretty quickly, but it taught me the 
+importance of writing bulletproof, readable, and flexible code that can adapt to new situations.
+
+### Why did you come to UT?
+UT is hands-down one of the best universities for Computer Science in the United States, so that made choosing UT very 
+obvious from the get-go. 
+
+### Why are you majoring in CS?
+I picked up code when found a YouTube channel called [The Coding Train](https://www.youtube.com/user/shiffman) where 
+a professor named [Daniel Shiffman](https://shiffman.net/) made generative art using a javascript graphics library 
+called [p5.js](https://p5js.org/). Eventually I landed on the engineering side of CS and started practicing 
+problem-solving and making web apps and lo and behold... I am now a CS major. 
+
+### Why are you in this class?
+I heard this class was a classic, must-take for a CS major at UT, so I wanted to see what it was about.
+
+### What are your expectations of this class?
+I hope to become proficient at writing software in teams of 100+ members and know how to tackle the challenges that 
+arise when working is large development teams.
+
+### How much Javascript/Python/SQL/Web programming do you already know?
+I am fairly proficient in javascript and web programming since I picked those up early in high school. I use Python for 
+my projects frequently and I used SQL for my past internship, so I have a working knowledge of all these languages 
+already. 
+
+### How did you like the first lectures?
+The best parts of lecture was using the versatility of Ed Discussion to ask questions in class and using a git repo 
+for lecture notes. I do wish it was more fast-paced though.
+
+### How did you feel about the cold calling?
+I have no problem with cold calling, but I am afraid not being able to unmute myself or having some other technical 
+issue on the spot.
+
+### What made you happy this week?
+I bought a new bike to commute to campus and it works perfectly! I have even ridden to downtown Austin with it and
+it is overall a lot of fun.
+
+### What's your pick-of-the-week or tip-of-the-week?
+[RoboGrammar](https://people.csail.mit.edu/jiex/papers/robogrammar/index.html) is a 2020 MIT paper which describes a graph-based approach to generate robot structures like body joints
+and links. Basically, they describe a way to generate graphs that can be turned into robots that are optimized for smooth
+surfaces, stepped surfaces, etc. It is cool because even with a few nodes, you can generate a huge variety of robots. 
+Here is [the paper](https://people.csail.mit.edu/jiex/papers/robogrammar/paper.pdf) and 
+[source code](https://github.com/allanzhao/RoboGrammar/) if you want to check it out. 
+I even a linked a quick video down below for you :).
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rSPwOeX46UA" title="YouTube video player" frameborder="0"></iframe>
