@@ -26,8 +26,8 @@ The makefile looked pretty standard compared to makefiles from other projects, b
 commands seems unecessary.
 
 I think Makefiles are pretty neat tools that allow you to write pipelines for compiling or testing code.
-However, they do look pretty complicated to work with and simply annotating an existing makefile is not enough.
-I hope we go over how a makefile works in lecture sometime.
+However, they seem pretty complicated to work with and simply annotating a makefile is not enough to learn it.
+I hope we go over how a makefile works in lecture soon.
 
 ### What was your experience of assertions, unit tests, and coverage? (this question will vary, week to week)
 *Assertions* are statements in your code that check if a boolean expression is true or not and fail immediately if false. 
