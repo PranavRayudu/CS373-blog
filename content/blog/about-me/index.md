@@ -1,6 +1,6 @@
 ---
 title: 'CS373 Fall 2021: Taraka Pranav Rayudu'
-date: "2021-09-29"
+date: "2021-08-29"
 description: "A bit about myself for blog post week #1 for SWE"
 ---
 ![profile-photo](./profile-photo.jpg)

@@ -1,5 +1,5 @@
 ---
-title: 'CS373 Fall 2021: Taraka Pranav Rayudu'
+title: 'CS373 Fall 2021 Post 2'
 date: "2021-09-05"
 description: "Post #2 for CS375 Software Enginering (Makefiles)"
 ---
