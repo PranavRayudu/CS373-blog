@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pranav Rayudu's Blog]]></title><description><![CDATA[Pranav Rayudu's blog]]></description><link>https://pranavrayudu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 06 Sep 2021 04:53:31 GMT</lastBuildDate><item><title><![CDATA[CS373 Fall 2021: Taraka Pranav Rayudu]]></title><description><![CDATA[What did you do this past week? This past week, I managed to cook all the new recipes I learnt from my mother. Most of those are curries and…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-2/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-2/</guid><pubDate>Sun, 05 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pranav Rayudu's Blog]]></title><description><![CDATA[Pranav Rayudu's blog]]></description><link>https://pranavrayudu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 06 Sep 2021 06:37:16 GMT</lastBuildDate><item><title><![CDATA[CS373 Fall 2021 Post 2]]></title><description><![CDATA[What did you do this past week? This past week, I managed to cook some new recipes I learnt from my mother. Most of those are curries and…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-2/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-2/</guid><pubDate>Sun, 05 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -32,43 +32,47 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;h3&gt;What did you do this past week?&lt;/h3&gt;
-&lt;p&gt;This past week, I managed to cook all the new recipes I learnt from my mother. Most of those are curries and frys like
+&lt;p&gt;This past week, I managed to cook some new recipes I learnt from my mother. Most of those are curries and frys like
 tomato curry, potato curry, chicken curry, potato fry, egg fry, etc. I hope that once I get comfortable with
 making these I do not have to stress about food for the rest of the semester, although they do take a bit of time to
 make.&lt;/p&gt;
-&lt;p&gt;Other things I have been working on is practicing some coding problems with my friends and I finished
-HackerRank for project Collatz!&lt;/p&gt;
+&lt;p&gt;I also practiced some coding problems and finished the HackerRank for project Collatz!&lt;/p&gt;
 &lt;h3&gt;What’s in your way?&lt;/h3&gt;
 &lt;p&gt;The stress of applying for internships is definetly taking its toll on me. I sit down to start working only to get hit
-by the realization that I also have to apply to companies. It is hard to get anything done with that cloud hanging
-over my head.&lt;/p&gt;
+by the realization that still need to apply. It is hard to get anything done with a cloud hanging over my head.&lt;/p&gt;
 &lt;h3&gt;What will you do next week?&lt;/h3&gt;
-&lt;p&gt;Start going to some org meetings that I think are cool, cook more instead of eating out, and finish all my class work.&lt;/p&gt;
+&lt;p&gt;I will start going to some org meetings that I think are cool, cook more instead of eating out, and try to
+finish all my class work.&lt;/p&gt;
 &lt;h3&gt;If you read it, what did you think of the Paper #2: Makefile?&lt;/h3&gt;
 &lt;p&gt;The makefile looked pretty standard compared to makefiles from other projects, but having aliases for batch git
 commands seems unecessary.&lt;/p&gt;
-&lt;p&gt;I think Makefiles are in general pretty neat tools that allow you to write pipelines for compiling or testing code.
-However, they do look pretty complicated to work with and require much more work to learn how to setup besides just
-annotating an existing makefile. I hope we go over how a makefile works in lecture sometime.&lt;/p&gt;
+&lt;p&gt;I think Makefiles are pretty neat tools that allow you to write pipelines for compiling or testing code.
+However, they seem pretty complicated to work with and simply annotating a makefile is not enough to learn it.
+I hope we go over how a makefile works in lecture soon.&lt;/p&gt;
 &lt;h3&gt;What was your experience of assertions, unit tests, and coverage? (this question will vary, week to week)&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Assertions&lt;/em&gt; are statements in your code that check if a boolean expression is true or not and fail immediately if false.
-They make testing invariants in your algorithm easy and I use them in every project I work on. I cannot quantify how
+They allow you to test invariants in an algorithm and I use them in every project I work on. I cannot quantify how
 many bugs I caught early on due to assertions.&lt;/p&gt;
 &lt;p&gt;I have used &lt;em&gt;Unit Testing&lt;/em&gt; before and I think it works very well for this project. The input and output are
-well-defined and creating more tests is very simple. However, it does require you to know the solution ahead of time
-though.&lt;/p&gt;
-&lt;p&gt;I have never used Coverage before and am not sure it is needed for this project. I believe it is only useful in checking
-if your tests are reaching every part of your codebase. I think it is only useful for very large projects that many have
+well-defined and creating more tests is very simple. However, it does require you to know the solution ahead of time.&lt;/p&gt;
+&lt;p&gt;I have never used &lt;em&gt;Coverage&lt;/em&gt; before and am not sure it is needed for this project. I believe it is only useful in checking
+if your tests are reaching every part of your codebase - best used for very large projects that many have
 dead code that does not need to be maintained. All in all, I think this is the least useful tool of the three.&lt;/p&gt;
 &lt;h3&gt;What made you happy this week?&lt;/h3&gt;
 &lt;p&gt;I have been going to the gym with my roomates and I noticed some changes! I think my hard work is starting to pay off
-now that I feel my posture and strength has improved. Here is to maintiaing my routine into the semester!&lt;/p&gt;
+now that my posture and strength has improved. Here is to maintiaing my routine into the semester!&lt;/p&gt;
 &lt;h3&gt;What’s your pick-of-the-week or tip-of-the-week?&lt;/h3&gt;
 &lt;p&gt;Remember taking Operating Systems (CS439)? Remember how hard it was to fix race conditions, memory leaks, and null
 pointers? Well, it could have been all avoided if you used a new programming paradigm. Introducing
-&lt;a href=&quot;https://www.rust-lang.org/&quot;&gt;Rust&lt;/a&gt;, a programming language that does not allow code that leads to race conditions or
-dangling pointers. It separates references into mutable and immutable references so that you can only have one mutable
-reference of an object at a time. This already avoids problems with multiple threads writing to a single memory.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CS373 Fall 2021: Taraka Pranav Rayudu]]></title><description><![CDATA[Where did you grow up? I spent the first half of my life in Bangalore, India. After I turned 13, my parents decided to move to the
+&lt;a href=&quot;https://www.rust-lang.org/&quot;&gt;Rust&lt;/a&gt;, a programming language that does not even allow you to write such code.
+It separates references into mutable and immutable references so that
+&lt;a href=&quot;https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#ownership-rules&quot;&gt;you can only have one mutable reference of an object at a time&lt;/a&gt;.
+This already avoids problems with multiple threads writing to a single memory address.
+It also has something called a &lt;a href=&quot;https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html&quot;&gt;borrow checker&lt;/a&gt;
+that makes sure all references are accounted for so you will not reference deallocated memory.&lt;/p&gt;
+&lt;p&gt;If you want to check it out, you can find resources &lt;a href=&quot;https://www.rust-lang.org/learn&quot;&gt;here&lt;/a&gt; and try running some
+code in the &lt;a href=&quot;https://play.rust-lang.org/&quot;&gt;online playground&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Until next week!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CS373 Fall 2021: Taraka Pranav Rayudu]]></title><description><![CDATA[Where did you grow up? I spent the first half of my life in Bangalore, India. After I turned 13, my parents decided to move to the
 States…]]></description><link>https://pranavrayudu.github.io/about-me/</link><guid isPermaLink="false">https://pranavrayudu.github.io/about-me/</guid><pubDate>Sun, 29 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
