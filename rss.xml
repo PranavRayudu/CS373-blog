@@ -1,5 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pranav Rayudu's Blog]]></title><description><![CDATA[Pranav Rayudu's blog]]></description><link>https://pranavrayudu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 30 Aug 2021 04:44:15 GMT</lastBuildDate><item><title><![CDATA[CS373 Fall 2021: Taraka Pranav Rayudu]]></title><description><![CDATA[Where did you grow up? I spent the first half of my life in Bangalore, India. After I turned 13, my parents decided to move to the
-States…]]></description><link>https://pranavrayudu.github.io/about-me/</link><guid isPermaLink="false">https://pranavrayudu.github.io/about-me/</guid><pubDate>Wed, 29 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pranav Rayudu's Blog]]></title><description><![CDATA[Pranav Rayudu's blog]]></description><link>https://pranavrayudu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 06 Sep 2021 04:52:57 GMT</lastBuildDate><item><title><![CDATA[CS373 Fall 2021: Taraka Pranav Rayudu]]></title><description><![CDATA[What did you do this past week? This past week, I managed to cook all the new recipes I learnt from my mother. Most of those are curries and…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-2/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-2/</guid><pubDate>Sun, 05 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/db8dd83596b9c3016ab8dbe7347cb64b/377b2/potrait.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMCBP/EABcBAQADAAAAAAAAAAAAAAAAAAIAAQP/2gAMAwEAAhADEAAAAdSpIurBGHKaG4uf/8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERAhIDIv/aAAgBAQABBQJsfxssPTc0Vl6fTP/EABYRAQEBAAAAAAAAAAAAAAAAAAEQIf/aAAgBAwEBPwEMhP/EABgRAAMBAQAAAAAAAAAAAAAAAAABMRAR/9oACAECAQE/AXcdOH//xAAdEAACAgEFAAAAAAAAAAAAAAAAARARIQMSMVFh/9oACAEBAAY/AuvRVqb05SxF2ZOT/8QAHBAAAwADAAMAAAAAAAAAAAAAAAERIVFhEHGh/9oACAEBAAE/IXYSeTnAvUhaKK1ifs3BiwvG4qE1fgiP/9oADAMBAAIAAwAAABD74ED/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEQ/9oACAEDAQE/EAU8Tjbf/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAREP/aAAgBAgEBPxBIDhMWL//EABsQAQEBAQADAQAAAAAAAAAAAAERACExQVGh/9oACAEBAAE/EJOCEiz7coZLp5H3dZIEeOL+ZlCEHOBh5gCKDHI4EbxO5hBSe9//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;profile-photo&quot;
+        title=&quot;profile-photo&quot;
+        src=&quot;/static/db8dd83596b9c3016ab8dbe7347cb64b/828fb/potrait.jpg&quot;
+        srcset=&quot;/static/db8dd83596b9c3016ab8dbe7347cb64b/ff44c/potrait.jpg 158w,
+/static/db8dd83596b9c3016ab8dbe7347cb64b/a6688/potrait.jpg 315w,
+/static/db8dd83596b9c3016ab8dbe7347cb64b/828fb/potrait.jpg 630w,
+/static/db8dd83596b9c3016ab8dbe7347cb64b/0ede0/potrait.jpg 945w,
+/static/db8dd83596b9c3016ab8dbe7347cb64b/3ac88/potrait.jpg 1260w,
+/static/db8dd83596b9c3016ab8dbe7347cb64b/377b2/potrait.jpg 1980w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;What did you do this past week?&lt;/h3&gt;
+&lt;p&gt;This past week, I managed to cook all the new recipes I learnt from my mother. Most of those are curries and frys like
+tomato curry, potato curry, chicken curry, potato fry, egg fry, etc. I hope that once I get comfortable with
+making these I do not have to stress about food for the rest of the semester, although they do take a bit of time to
+make.&lt;/p&gt;
+&lt;p&gt;Other things I have been working on is practicing some coding problems with my friends and I finished
+HackerRank for project Collatz!&lt;/p&gt;
+&lt;h3&gt;What’s in your way?&lt;/h3&gt;
+&lt;p&gt;The stress of applying for internships is definetly taking its toll on me. I sit down to start working only to get hit
+by the realization that I also have to apply to companies. It is hard to get anything done with that cloud hanging
+over my head.&lt;/p&gt;
+&lt;h3&gt;What will you do next week?&lt;/h3&gt;
+&lt;p&gt;Start going to some org meetings that I think are cool, cook more instead of eating out, and finish all my class work.&lt;/p&gt;
+&lt;h3&gt;If you read it, what did you think of the Paper #2: Makefile?&lt;/h3&gt;
+&lt;p&gt;The makefile looked pretty standard compared to makefiles from other projects, but having aliases for batch git
+commands seems unecessary.&lt;/p&gt;
+&lt;p&gt;I think Makefiles are in general pretty neat tools that allow you to write pipelines for compiling or testing code.
+However, they do look pretty complicated to work with and require much more work to learn how to setup besides just
+annotating an existing makefile. I hope we go over how a makefile works in lecture sometime.&lt;/p&gt;
+&lt;h3&gt;What was your experience of assertions, unit tests, and coverage? (this question will vary, week to week)&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Assertions&lt;/em&gt; are statements in your code that check if a boolean expression is true or not and fail immediately if false.
+They make testing invariants in your algorithm easy and I use them in every project I work on. I cannot quantify how
+many bugs I caught early on due to assertions.&lt;/p&gt;
+&lt;p&gt;I have used &lt;em&gt;Unit Testing&lt;/em&gt; before and I think it works very well for this project. The input and output are
+well-defined and creating more tests is very simple. However, it does require you to know the solution ahead of time
+though.&lt;/p&gt;
+&lt;p&gt;I have never used Coverage before and am not sure it is needed for this project. I believe it is only useful in checking
+if your tests are reaching every part of your codebase. I think it is only useful for very large projects that many have
+dead code that does not need to be maintained. All in all, I think this is the least useful tool of the three.&lt;/p&gt;
+&lt;h3&gt;What made you happy this week?&lt;/h3&gt;
+&lt;p&gt;I have been going to the gym with my roomates and I noticed some changes! I think my hard work is starting to pay off
+now that I feel my posture and strength has improved. Here is to maintiaing my routine into the semester!&lt;/p&gt;
+&lt;h3&gt;What’s your pick-of-the-week or tip-of-the-week?&lt;/h3&gt;
+&lt;p&gt;Remember taking Operating Systems (CS439)? Remember how hard it was to fix race conditions, memory leaks, and null
+pointers? Well, it could have been all avoided if you used a new programming paradigm. Introducing
+&lt;a href=&quot;https://www.rust-lang.org/&quot;&gt;Rust&lt;/a&gt;, a programming language that does not allow code that leads to race conditions or
+dangling pointers. It separates references into mutable and immutable references so that you can only have one mutable
+reference of an object at a time. This already avoids problems with multiple threads writing to a single memory.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CS373 Fall 2021: Taraka Pranav Rayudu]]></title><description><![CDATA[Where did you grow up? I spent the first half of my life in Bangalore, India. After I turned 13, my parents decided to move to the
+States…]]></description><link>https://pranavrayudu.github.io/about-me/</link><guid isPermaLink="false">https://pranavrayudu.github.io/about-me/</guid><pubDate>Sun, 29 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
