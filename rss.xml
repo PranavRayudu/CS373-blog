@@ -1,4 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pranav Rayudu's Blog]]></title><description><![CDATA[Pranav Rayudu's blog]]></description><link>https://pranavrayudu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 06 Sep 2021 06:37:16 GMT</lastBuildDate><item><title><![CDATA[CS373 Fall 2021 Post 2]]></title><description><![CDATA[What did you do this past week? This past week, I managed to cook some new recipes I learnt from my mother. Most of those are curries and…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-2/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-2/</guid><pubDate>Sun, 05 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pranav Rayudu's Blog]]></title><description><![CDATA[Pranav Rayudu's blog]]></description><link>https://pranavrayudu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 12 Sep 2021 21:37:31 GMT</lastBuildDate><item><title><![CDATA[Software Engineering: Post 3]]></title><description><![CDATA[What did you do this past week? I spent the past week reading up on blockchains, practicing programming problems, and procrastinating on…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-3/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-3/</guid><pubDate>Sat, 11 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c8f53ec9997e7f51f587289b2816f678/377b2/potrait.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAb/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAAB3Z9UIr1qjnpFVgR//8QAHBAAAgICAwAAAAAAAAAAAAAAAQIAAwQREhMh/9oACAEBAAEFArWK11cwYy7FHo1Gtd52sYuRYB//xAAWEQADAAAAAAAAAAAAAAAAAAABEDH/2gAIAQMBAT8BEQi//8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQIBAT8BKf/EAB0QAAIBBAMAAAAAAAAAAAAAAAABAhAREjEhMnH/2gAIAQEABj8CbjsV553oxU5Ylrw7H//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESFBMWEQUXH/2gAIAQEAAT8hpc1L13GTW5jruVG6ZZDxjHgRnr0RPbSApl9J/9oADAMBAAIAAwAAABAI/wA8/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAREP/aAAgBAwEBPxACm2Trn//EABcRAQEBAQAAAAAAAAAAAAAAAAERABD/2gAIAQIBAT8QVvEI0N//xAAfEAEBAAMAAQUBAAAAAAAAAAABEQAhMUEQUXGBkaH/2gAIAQEAAT8QDNCIKUyvjuXs7UF1YE8UkxWCxpoPKe+EsIFUI26P76HnUvAPrI2CV2LM4QPJL+5//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;profile-photo&quot;
+        title=&quot;profile-photo&quot;
+        src=&quot;/static/c8f53ec9997e7f51f587289b2816f678/828fb/potrait.jpg&quot;
+        srcset=&quot;/static/c8f53ec9997e7f51f587289b2816f678/ff44c/potrait.jpg 158w,
+/static/c8f53ec9997e7f51f587289b2816f678/a6688/potrait.jpg 315w,
+/static/c8f53ec9997e7f51f587289b2816f678/828fb/potrait.jpg 630w,
+/static/c8f53ec9997e7f51f587289b2816f678/0ede0/potrait.jpg 945w,
+/static/c8f53ec9997e7f51f587289b2816f678/3ac88/potrait.jpg 1260w,
+/static/c8f53ec9997e7f51f587289b2816f678/377b2/potrait.jpg 1980w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;What did you do this past week?&lt;/h3&gt;
+&lt;p&gt;I spent the past week reading up on blockchains, practicing programming problems, and procrastinating on
+project Collatz.&lt;/p&gt;
+&lt;h3&gt;What’s in your way?&lt;/h3&gt;
+&lt;p&gt;Even though it feels like I have a lot of work to do, I know that it is simply a function of not managing time properly.
+I spent too much time on distractions like watching random videos on Youtube or reading random blogs. While it is
+important to step away from work and take a break, I find that I use distractions to avoid stress. Instead,
+I should plan out my day so I can work and get everything done.&lt;/p&gt;
+&lt;h3&gt;What will you do next week?&lt;/h3&gt;
+&lt;p&gt;I will start implementing time-saving strategies like tracking time spent on projects, allocating fixed time per project,
+and making sure I get something done every time I sit down to work. The idea is if I plan out when I will take breaks,
+I will not feel like taking breaks all the time.&lt;/p&gt;
+&lt;p&gt;Oh, and career fair is coming up. I also plan on visiting some exciting companies and introducing myself
+to their recruiters. I hope to see you all there!&lt;/p&gt;
+&lt;h3&gt;If you read it, what did you think of the Paper #3: Continuous Integration?&lt;/h3&gt;
+&lt;p&gt;While it does a good job of introducing the philosophy of CI development, that paper was written in 2006 and it shows.&lt;/p&gt;
+&lt;p&gt;It uses arcane references (CruiseControl, Subversion, FIT, etc.) for tools no longer used, but I was hoping to learn
+about modern tools (Git, CircleCI, Github Actions, etc.) and how software teams take advantage of
+their capability and robustness.&lt;/p&gt;
+&lt;h3&gt;What was your experience of IsPrime and Collatz optimizations?&lt;/h3&gt;
+&lt;p&gt;The &lt;code class=&quot;language-text&quot;&gt;IsPrime&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;Collatz&lt;/code&gt; projects were fairly easy to optimize, so they were stress-free;
+I look forward to more challenges like this!&lt;/p&gt;
+&lt;h3&gt;What made you happy this week?&lt;/h3&gt;
+&lt;p&gt;I can see the results of my time at the gym! I can feel my posture improving and I am less tired after working all day.
+If you have not hit the gym, try taking a run! A 10 minute jog is just as refreshing :)&lt;/p&gt;
+&lt;h3&gt;What’s your pick-of-the-week or tip-of-the-week?&lt;/h3&gt;
+&lt;p&gt;Blockchains and cryptocurrencies are not a fad. Blockchains like &lt;a href=&quot;https://bitcoin.org/en/&quot;&gt;Bitcoin&lt;/a&gt; and
+&lt;a href=&quot;https://ethereum.org/en/&quot;&gt;Etherum&lt;/a&gt; already proved that that they work as a decentralized financial system.
+However, there are other applications. Bleading edge protocols like
+&lt;a href=&quot;https://ipfs.io/&quot;&gt;IPFS&lt;/a&gt; allow you to store and serve files on demand and
+completely fault-proof. It is bringing about the widespread adoption of
+&lt;a href=&quot;https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b&quot;&gt;web 3.0&lt;/a&gt;, where the internet is
+completely decentralized. Don’t miss out. If you would like an awesome primer on blockchains, I linked a
+&lt;a href=&quot;https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw&quot;&gt;3 Blue 1 Brown&lt;/a&gt; video for you to check out!&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/bBC-nXj3Ng4?controls=0&quot; title=&quot;3B1B Bitcoin video&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;Until next week!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CS373 Fall 2021 Post 2]]></title><description><![CDATA[What did you do this past week? This past week, I managed to cook some new recipes I learnt from my mother. Most of those are curries and…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-2/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-2/</guid><pubDate>Sun, 05 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
