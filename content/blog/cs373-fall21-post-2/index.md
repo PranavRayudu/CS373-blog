@@ -1,7 +1,7 @@
 ---
-title: 'CS373 Fall 2021 Post 2'
+title: 'Software Engineering: Post 2'
 date: "2021-09-05"
-description: "Post #2 for CS375 Software Enginering (Makefiles)"
+description: "Post #2 for CS375 Software Engineering (Makefiles)"
 ---
 ![profile-photo](./potrait.jpg)
 
