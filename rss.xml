@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pranav Rayudu's Blog]]></title><description><![CDATA[Pranav Rayudu's blog]]></description><link>https://pranavrayudu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 20 Sep 2021 00:20:58 GMT</lastBuildDate><item><title><![CDATA[Software Engineering: Post 4]]></title><description><![CDATA[What did you do this past week? I got my study habits in order and made big leaps in productivity by timing how long it takes to complete…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-4/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-4/</guid><pubDate>Sun, 19 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pranav Rayudu's Blog]]></title><description><![CDATA[Pranav Rayudu's blog]]></description><link>https://pranavrayudu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 27 Sep 2021 04:49:36 GMT</lastBuildDate><item><title><![CDATA[Software Engineering: Post 5]]></title><description><![CDATA[What did you do this past week? I worked on work, worked out, and did coding interviews from different companies I applied to. What’s in…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-5/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-5/</guid><pubDate>Sun, 26 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c8f53ec9997e7f51f587289b2816f678/377b2/potrait.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAb/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAAB3Z9UIr1qjnpFVgR//8QAHBAAAgICAwAAAAAAAAAAAAAAAQIAAwQREhMh/9oACAEBAAEFArWK11cwYy7FHo1Gtd52sYuRYB//xAAWEQADAAAAAAAAAAAAAAAAAAABEDH/2gAIAQMBAT8BEQi//8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQIBAT8BKf/EAB0QAAIBBAMAAAAAAAAAAAAAAAABAhAREjEhMnH/2gAIAQEABj8CbjsV553oxU5Ylrw7H//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESFBMWEQUXH/2gAIAQEAAT8hpc1L13GTW5jruVG6ZZDxjHgRnr0RPbSApl9J/9oADAMBAAIAAwAAABAI/wA8/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAREP/aAAgBAwEBPxACm2Trn//EABcRAQEBAQAAAAAAAAAAAAAAAAERABD/2gAIAQIBAT8QVvEI0N//xAAfEAEBAAMAAQUBAAAAAAAAAAABEQAhMUEQUXGBkaH/2gAIAQEAAT8QDNCIKUyvjuXs7UF1YE8UkxWCxpoPKe+EsIFUI26P76HnUvAPrI2CV2LM4QPJL+5//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;profile-photo&quot;
+        title=&quot;profile-photo&quot;
+        src=&quot;/static/c8f53ec9997e7f51f587289b2816f678/828fb/potrait.jpg&quot;
+        srcset=&quot;/static/c8f53ec9997e7f51f587289b2816f678/ff44c/potrait.jpg 158w,
+/static/c8f53ec9997e7f51f587289b2816f678/a6688/potrait.jpg 315w,
+/static/c8f53ec9997e7f51f587289b2816f678/828fb/potrait.jpg 630w,
+/static/c8f53ec9997e7f51f587289b2816f678/0ede0/potrait.jpg 945w,
+/static/c8f53ec9997e7f51f587289b2816f678/3ac88/potrait.jpg 1260w,
+/static/c8f53ec9997e7f51f587289b2816f678/377b2/potrait.jpg 1980w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;What did you do this past week?&lt;/h3&gt;
+&lt;p&gt;I worked on work, worked out, and did coding interviews from different companies I applied to.&lt;/p&gt;
+&lt;h3&gt;What’s in your way?&lt;/h3&gt;
+&lt;p&gt;I and my SWE group need to finish up our project proposal and I hope we can get it done soon.&lt;/p&gt;
+&lt;h3&gt;What will you do next week?&lt;/h3&gt;
+&lt;p&gt;Hit the ground running on Project #2 and get a mockup of our project and the 14 pages
+up as soon as possible. I will also start running this week because the weather has
+calmed down.&lt;/p&gt;
+&lt;h3&gt;If you read it, what did you think of the Paper #5: Pair Programming?&lt;/h3&gt;
+&lt;p&gt;The paper is a good primer on working with your fellow peers, although every
+student experienced enough to take SWE knows the principles. Regardless, I am
+convinced that all code should be written in pairs. Well, maybe not individual assignments.&lt;/p&gt;
+&lt;h3&gt;What was your experience of Python’s object model, list, tuple, set, dict, and iterators?&lt;/h3&gt;
+&lt;p&gt;I have used the Python object model and the other data structures in my projects before, so
+they are nothing new, but I appreciate the refresher. I am looking forward to learning
+more complex python concepts like decorators, closures, etc. that can use in my SWE project.&lt;/p&gt;
+&lt;h3&gt;What made you happy this week?&lt;/h3&gt;
+&lt;p&gt;I had a lot of fun this weekend hanging out with all my friends. We did not do anything special
+other than just going out, watching a movie, etc. but I liked seeing so many of my friends
+and it was energizing.&lt;/p&gt;
+&lt;p&gt;Also, the weather was perfect for the first time in forever! On Friday I sat on the benches
+in front of Greg and worked, which was very satisfying.&lt;/p&gt;
+&lt;h3&gt;What’s your pick-of-the-week or tip-of-the-week?&lt;/h3&gt;
+&lt;p&gt;I find stretching my legs after walking all day very satisfying.
+My favorites stretches are the &lt;a href=&quot;https://www.openfit.com/figure-4-stretch&quot;&gt;Figure Four stretch&lt;/a&gt;,
+&lt;a href=&quot;https://yoga15.com/pose/runners-lunge/&quot;&gt;Runner’s Lunge&lt;/a&gt;,
+and &lt;a href=&quot;https://www.sensational-yoga-poses.com/hamstring-stretches.html#pyramidpose&quot;&gt;Kneeling hamstring stretch&lt;/a&gt;
+for my legs, and &lt;a href=&quot;https://www.verywellfit.com/the-towel-chest-stretch-2696334&quot;&gt;Towel Chest stretch&lt;/a&gt; for the upper body.
+You should hold them for 30 to 60s and lean in slowly and lean as far into the stretch as you can. Even better,
+they are all progressive stretches so you can start slow notice yourself getting better over time!&lt;/p&gt;
+&lt;p&gt;Until next week!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Software Engineering: Post 4]]></title><description><![CDATA[What did you do this past week? I got my study habits in order and made big leaps in productivity by timing how long it takes to complete…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-4/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-4/</guid><pubDate>Sun, 19 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -126,32 +189,32 @@ completely fault-proof. It is bringing about the widespread adoption of
 completely decentralized. Don’t miss out. If you would like an awesome primer on blockchains, I linked a
 &lt;a href=&quot;https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw&quot;&gt;3 Blue 1 Brown&lt;/a&gt; video for you to check out!&lt;/p&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/bBC-nXj3Ng4&quot; title=&quot;3B1B Bitcoin video&quot; frameborder=&quot;0&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
-&lt;p&gt;Until next week!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CS373 Fall 2021 Post 2]]></title><description><![CDATA[What did you do this past week? This past week, I managed to cook some new recipes I learnt from my mother. Most of those are curries and…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-2/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-2/</guid><pubDate>Sun, 05 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;Until next week!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Software Engineering: Post 2]]></title><description><![CDATA[What did you do this past week? This past week, I managed to cook some new recipes I learnt from my mother. Most of those are curries and…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-2/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-2/</guid><pubDate>Sun, 05 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/db8dd83596b9c3016ab8dbe7347cb64b/377b2/potrait.jpg&quot;
+    href=&quot;/static/6b994e0caf29ed37195b03dfbb72fcdf/377b2/potrait.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMCBP/EABcBAQADAAAAAAAAAAAAAAAAAAIAAQP/2gAMAwEAAhADEAAAAdSpIurBGHKaG4uf/8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERAhIDIv/aAAgBAQABBQJsfxssPTc0Vl6fTP/EABYRAQEBAAAAAAAAAAAAAAAAAAEQIf/aAAgBAwEBPwEMhP/EABgRAAMBAQAAAAAAAAAAAAAAAAABMRAR/9oACAECAQE/AXcdOH//xAAdEAACAgEFAAAAAAAAAAAAAAAAARARIQMSMVFh/9oACAEBAAY/AuvRVqb05SxF2ZOT/8QAHBAAAwADAAMAAAAAAAAAAAAAAAERIVFhEHGh/9oACAEBAAE/IXYSeTnAvUhaKK1ifs3BiwvG4qE1fgiP/9oADAMBAAIAAwAAABD74ED/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEQ/9oACAEDAQE/EAU8Tjbf/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAREP/aAAgBAgEBPxBIDhMWL//EABsQAQEBAQADAQAAAAAAAAAAAAERACExQVGh/9oACAEBAAE/EJOCEiz7coZLp5H3dZIEeOL+ZlCEHOBh5gCKDHI4EbxO5hBSe9//2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUBBv/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAG1Npz4qjFHMaVaEP/EABsQAAMBAAMBAAAAAAAAAAAAAAECAwAEERMh/9oACAEBAAEFAqMVSbU9c47WX189Xc0oxw5VQP/EABURAQEAAAAAAAAAAAAAAAAAABBB/9oACAEDAQE/AYQ//8QAFhEBAQEAAAAAAAAAAAAAAAAAEEEB/9oACAECAQE/AaXD/8QAHRAAAQQCAwAAAAAAAAAAAAAAAQACEDEREiMyQf/aAAgBAQAGPwIkWhybA+QUKjLnR2X/xAAcEAADAQACAwAAAAAAAAAAAAAAAREhEDFBcaH/2gAIAQEAAT8hU1U6E3OprcfZEYkgigD2zwMUrJuCMte0f//aAAwDAQACAAMAAAAQs9e//8QAGBEBAAMBAAAAAAAAAAAAAAAAAQAQESH/2gAIAQMBAT8QA2zYPdf/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQAQ/9oACAECAQE/EKwcQ1Df/8QAHRABAQADAAMBAQAAAAAAAAAAAREAITFBUZEQgf/aAAgBAQABPxADZADyrM1LSi4+QOTv4BmaIvKbMJRLamn3PucZpwoXB/MmIY8O/eDGQdNfuf/Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;profile-photo&quot;
         title=&quot;profile-photo&quot;
-        src=&quot;/static/db8dd83596b9c3016ab8dbe7347cb64b/828fb/potrait.jpg&quot;
-        srcset=&quot;/static/db8dd83596b9c3016ab8dbe7347cb64b/ff44c/potrait.jpg 158w,
-/static/db8dd83596b9c3016ab8dbe7347cb64b/a6688/potrait.jpg 315w,
-/static/db8dd83596b9c3016ab8dbe7347cb64b/828fb/potrait.jpg 630w,
-/static/db8dd83596b9c3016ab8dbe7347cb64b/0ede0/potrait.jpg 945w,
-/static/db8dd83596b9c3016ab8dbe7347cb64b/3ac88/potrait.jpg 1260w,
-/static/db8dd83596b9c3016ab8dbe7347cb64b/377b2/potrait.jpg 1980w&quot;
+        src=&quot;/static/6b994e0caf29ed37195b03dfbb72fcdf/828fb/potrait.jpg&quot;
+        srcset=&quot;/static/6b994e0caf29ed37195b03dfbb72fcdf/ff44c/potrait.jpg 158w,
+/static/6b994e0caf29ed37195b03dfbb72fcdf/a6688/potrait.jpg 315w,
+/static/6b994e0caf29ed37195b03dfbb72fcdf/828fb/potrait.jpg 630w,
+/static/6b994e0caf29ed37195b03dfbb72fcdf/0ede0/potrait.jpg 945w,
+/static/6b994e0caf29ed37195b03dfbb72fcdf/3ac88/potrait.jpg 1260w,
+/static/6b994e0caf29ed37195b03dfbb72fcdf/377b2/potrait.jpg 1980w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
