@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pranav Rayudu's Blog]]></title><description><![CDATA[Pranav Rayudu's blog]]></description><link>https://pranavrayudu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 02 Oct 2021 18:31:31 GMT</lastBuildDate><item><title><![CDATA[Software Engineering: Post 6]]></title><description><![CDATA[What did you do this past week? I started working on project #2 and I like how it is going so far. I am working on the frontend site, so I…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-6/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-6/</guid><pubDate>Sat, 02 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pranav Rayudu's Blog]]></title><description><![CDATA[Pranav Rayudu's blog]]></description><link>https://pranavrayudu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 10 Oct 2021 21:06:24 GMT</lastBuildDate><item><title><![CDATA[Software Engineering: Post 7]]></title><description><![CDATA[What did you do this past week? I took a break after finding Phase I for our project. We had a small hiccup with our Gitlab issues on the…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-7/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-7/</guid><pubDate>Sun, 10 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c8f53ec9997e7f51f587289b2816f678/377b2/potrait.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAb/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAAB3Z9UIr1qjnpFVgR//8QAHBAAAgICAwAAAAAAAAAAAAAAAQIAAwQREhMh/9oACAEBAAEFArWK11cwYy7FHo1Gtd52sYuRYB//xAAWEQADAAAAAAAAAAAAAAAAAAABEDH/2gAIAQMBAT8BEQi//8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQIBAT8BKf/EAB0QAAIBBAMAAAAAAAAAAAAAAAABAhAREjEhMnH/2gAIAQEABj8CbjsV553oxU5Ylrw7H//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESFBMWEQUXH/2gAIAQEAAT8hpc1L13GTW5jruVG6ZZDxjHgRnr0RPbSApl9J/9oADAMBAAIAAwAAABAI/wA8/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAREP/aAAgBAwEBPxACm2Trn//EABcRAQEBAQAAAAAAAAAAAAAAAAERABD/2gAIAQIBAT8QVvEI0N//xAAfEAEBAAMAAQUBAAAAAAAAAAABEQAhMUEQUXGBkaH/2gAIAQEAAT8QDNCIKUyvjuXs7UF1YE8UkxWCxpoPKe+EsIFUI26P76HnUvAPrI2CV2LM4QPJL+5//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;profile-photo&quot;
+        title=&quot;profile-photo&quot;
+        src=&quot;/static/c8f53ec9997e7f51f587289b2816f678/828fb/potrait.jpg&quot;
+        srcset=&quot;/static/c8f53ec9997e7f51f587289b2816f678/ff44c/potrait.jpg 158w,
+/static/c8f53ec9997e7f51f587289b2816f678/a6688/potrait.jpg 315w,
+/static/c8f53ec9997e7f51f587289b2816f678/828fb/potrait.jpg 630w,
+/static/c8f53ec9997e7f51f587289b2816f678/0ede0/potrait.jpg 945w,
+/static/c8f53ec9997e7f51f587289b2816f678/3ac88/potrait.jpg 1260w,
+/static/c8f53ec9997e7f51f587289b2816f678/377b2/potrait.jpg 1980w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;What did you do this past week?&lt;/h3&gt;
+&lt;p&gt;I took a break after finding Phase I for our project. We had a small hiccup with our Gitlab issues on the last day but
+we managed to get it working on production. I had fun with friends and took it easy this week.&lt;/p&gt;
+&lt;h3&gt;What’s in your way?&lt;/h3&gt;
+&lt;p&gt;I have a few pending and future interviews that I need to get through. I hope to do a good job on them!&lt;/p&gt;
+&lt;h3&gt;What will you do next week?&lt;/h3&gt;
+&lt;p&gt;Phase II! My team has started working on phase II and I think it will be a good one. In this phase, we are using
+linters, formatters, and issue boards to organize our code and work. Now that we are following all the suggestions
+provided to us, this phase should go smoothly.&lt;/p&gt;
+&lt;h3&gt;If you read it, what did you think of Paper #7: Open-Closed Principle?&lt;/h3&gt;
+&lt;p&gt;The Open-Closed principle is important to teach students but I honestly think it needs to be gained from experience.
+One of the interesting comments I saw mentioned that students do not understand this because school projects only run
+1-2 weeks long and the Open-Closed principle is not so useful. It is more useful on longer, semester-long projects.&lt;/p&gt;
+&lt;h3&gt;What was your experience of operators, and iteration?&lt;/h3&gt;
+&lt;p&gt;As Dr. Downing said, Python has meticulously designed functionality for operators and iteration, although I think they
+are fairly simple.&lt;/p&gt;
+&lt;h3&gt;What made you happy this week?&lt;/h3&gt;
+&lt;p&gt;Such favorable weather! Sometimes I would walk out of class and just stand in the middle of Speedway because the
+temperature, lighting, and wind were just right. The last time I was able to do this on campus was freshman year, so it
+brings back memories.&lt;/p&gt;
+&lt;h3&gt;What’s your pick-of-the-week or tip-of-the-week?&lt;/h3&gt;
+&lt;p&gt;Go out y’all. During the evenings (around 5-6pm), the weather will be perfect for a walk outside or to just study. I
+recommend sitting by the benches in front of Greg or the green plaza behind Jester Center because they are excellent
+studying spots. Otherwise, take a walk down San Jacinto Boulevard which runs along Waller Creek if you just need
+to chill!&lt;/p&gt;
+&lt;p&gt;Until next week!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Software Engineering: Post 6]]></title><description><![CDATA[What did you do this past week? I started working on project #2 and I like how it is going so far. I am working on the frontend site, so I…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-6/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-6/</guid><pubDate>Sat, 02 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
