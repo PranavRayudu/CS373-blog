@@ -6,7 +6,7 @@ description: "Post #7 for CS375 Software Engineering (The Open-Closed Principle)
 ![profile-photo](./potrait.jpg)
 
 ### What did you do this past week?
-I took a break after finding Phase I for our project. We had a small hiccup with our Gitlab issues on the last day but
+I took a break after finishing Phase I for our project. We had a small hiccup with our Gitlab stats on the last day but
 we managed to get it working on production. I had fun with friends and took it easy this week.
 
 ### What's in your way?
