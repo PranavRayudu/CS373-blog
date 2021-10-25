@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pranav Rayudu's Blog]]></title><description><![CDATA[Pranav Rayudu's blog]]></description><link>https://pranavrayudu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 18 Oct 2021 02:35:06 GMT</lastBuildDate><item><title><![CDATA[Software Engineering: Post 8]]></title><description><![CDATA[What did you do this past week? This past week, I avoided the rain, enjoyed the sun and welcomed the beginning of Fall! I also went to Garba…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-8/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-8/</guid><pubDate>Sun, 17 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pranav Rayudu's Blog]]></title><description><![CDATA[Pranav Rayudu's blog]]></description><link>https://pranavrayudu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 25 Oct 2021 04:26:55 GMT</lastBuildDate><item><title><![CDATA[Software Engineering: Post 9]]></title><description><![CDATA[What did you do this past week? I worked on my SWE project, finished midterms, and completed a lot of interviews. Oh, and I
+also joined…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-9/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-9/</guid><pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c8f53ec9997e7f51f587289b2816f678/377b2/potrait.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAb/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAAB3Z9UIr1qjnpFVgR//8QAHBAAAgICAwAAAAAAAAAAAAAAAQIAAwQREhMh/9oACAEBAAEFArWK11cwYy7FHo1Gtd52sYuRYB//xAAWEQADAAAAAAAAAAAAAAAAAAABEDH/2gAIAQMBAT8BEQi//8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQIBAT8BKf/EAB0QAAIBBAMAAAAAAAAAAAAAAAABAhAREjEhMnH/2gAIAQEABj8CbjsV553oxU5Ylrw7H//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESFBMWEQUXH/2gAIAQEAAT8hpc1L13GTW5jruVG6ZZDxjHgRnr0RPbSApl9J/9oADAMBAAIAAwAAABAI/wA8/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAREP/aAAgBAwEBPxACm2Trn//EABcRAQEBAQAAAAAAAAAAAAAAAAERABD/2gAIAQIBAT8QVvEI0N//xAAfEAEBAAMAAQUBAAAAAAAAAAABEQAhMUEQUXGBkaH/2gAIAQEAAT8QDNCIKUyvjuXs7UF1YE8UkxWCxpoPKe+EsIFUI26P76HnUvAPrI2CV2LM4QPJL+5//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;profile-photo&quot;
+        title=&quot;profile-photo&quot;
+        src=&quot;/static/c8f53ec9997e7f51f587289b2816f678/828fb/potrait.jpg&quot;
+        srcset=&quot;/static/c8f53ec9997e7f51f587289b2816f678/ff44c/potrait.jpg 158w,
+/static/c8f53ec9997e7f51f587289b2816f678/a6688/potrait.jpg 315w,
+/static/c8f53ec9997e7f51f587289b2816f678/828fb/potrait.jpg 630w,
+/static/c8f53ec9997e7f51f587289b2816f678/0ede0/potrait.jpg 945w,
+/static/c8f53ec9997e7f51f587289b2816f678/3ac88/potrait.jpg 1260w,
+/static/c8f53ec9997e7f51f587289b2816f678/377b2/potrait.jpg 1980w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;What did you do this past week?&lt;/h3&gt;
+&lt;p&gt;I worked on my SWE project, finished midterms, and completed a lot of interviews. Oh, and I
+also joined Intramural Soccer ⚽! We had our first weekly match on Wednesday and it was an absolute blast.
+We lost but I know we will win the next one.&lt;/p&gt;
+&lt;h3&gt;What’s in your way?&lt;/h3&gt;
+&lt;p&gt;My SWE project is still far from complete and I and my teammates are still wrangling the
+monster that is scraping data so that we can finish in time. I would like to finish
+adding all this data to the front-end as soon as possible.&lt;/p&gt;
+&lt;h3&gt;What will you do next week?&lt;/h3&gt;
+&lt;p&gt;I will finish my SWE project, start running outside and practice for my next IM soccer match.&lt;/p&gt;
+&lt;h3&gt;If you read it, what did you think of the Paper #9: Interface Segregation Principle?&lt;/h3&gt;
+&lt;p&gt;ISP is a good primer on the motivations behind having interfaces and multiple inheritances.
+I think multiple inheritances reign far above other object models and I wish it were the
+norm instead of regular inheritance. Either way, I look forward to using it in my projects!&lt;/p&gt;
+&lt;h3&gt;What were your experience of functions, closures, and decorators?&lt;/h3&gt;
+&lt;p&gt;For a long time, I looked forward to learning about closures and decorators so I am glad we
+finally hit this topic. They occurred in multiple places during my coding career like
+Flask/backend API frameworks, Python &lt;code class=&quot;language-text&quot;&gt;functools&lt;/code&gt;, etc. Since they are paramount for so many
+complex libraries, I am glad that I gained familiarity with these tools.&lt;/p&gt;
+&lt;h3&gt;What made you happy this week?&lt;/h3&gt;
+&lt;p&gt;Honestly, I am more excited about next week… it’s Halloween 🎃! Lots of celebration and themed
+parties to visit and it heralds the beginning of end-of-year festivities. Cheers!&lt;/p&gt;
+&lt;h3&gt;What’s your pick-of-the-week or tip-of-the-week?&lt;/h3&gt;
+&lt;p&gt;If you live off-campus, then you might live near an &lt;a href=&quot;https://austin.bcycle.com/&quot;&gt;Austin Bike Share&lt;/a&gt; bike rack.
+Bike share lets you rent a bike from any metro bike rack, which is available on and near UT campus
+(see a &lt;a href=&quot;https://austin.bcycle.com/stations&quot;&gt;map of all bike racks&lt;/a&gt;).
+The best thing is, UT students can get an annual membership for $12 after signing up
+&lt;a href=&quot;https://austin.bcycle.com/university-of-texas-at-austin&quot;&gt;on this form&lt;/a&gt;!
+You can find more info &lt;a href=&quot;https://parking.utexas.edu/bcycle&quot;&gt;on the UT website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Until next week!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Software Engineering: Post 8]]></title><description><![CDATA[What did you do this past week? This past week, I avoided the rain, enjoyed the sun and welcomed the beginning of Fall! I also went to Garba…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-8/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-8/</guid><pubDate>Sun, 17 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
