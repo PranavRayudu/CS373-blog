@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pranav Rayudu's Blog]]></title><description><![CDATA[Pranav Rayudu's blog]]></description><link>https://pranavrayudu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 22 Nov 2021 06:11:20 GMT</lastBuildDate><item><title><![CDATA[Software Engineering: Post 13]]></title><description><![CDATA[What did you do this past week? I took a break after spectacularly completing my projects for SWE, Neural Nets, Applied Stats, and AI which…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-13/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-13/</guid><pubDate>Sun, 21 Nov 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pranav Rayudu's Blog]]></title><description><![CDATA[Pranav Rayudu's blog]]></description><link>https://pranavrayudu.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 06 Dec 2021 18:42:15 GMT</lastBuildDate><item><title><![CDATA[CS373 Fall 2021: Pranav Rayudu : Final Entry]]></title><description><![CDATA[The following are long-term takeaways from this class: test first, test during, test after; test, test, test when designing algorithms…]]></description><link>https://pranavrayudu.github.io/final-entry/</link><guid isPermaLink="false">https://pranavrayudu.github.io/final-entry/</guid><pubDate>Sun, 05 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c8f53ec9997e7f51f587289b2816f678/377b2/potrait.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAb/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAAB3Z9UIr1qjnpFVgR//8QAHBAAAgICAwAAAAAAAAAAAAAAAQIAAwQREhMh/9oACAEBAAEFArWK11cwYy7FHo1Gtd52sYuRYB//xAAWEQADAAAAAAAAAAAAAAAAAAABEDH/2gAIAQMBAT8BEQi//8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQIBAT8BKf/EAB0QAAIBBAMAAAAAAAAAAAAAAAABAhAREjEhMnH/2gAIAQEABj8CbjsV553oxU5Ylrw7H//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESFBMWEQUXH/2gAIAQEAAT8hpc1L13GTW5jruVG6ZZDxjHgRnr0RPbSApl9J/9oADAMBAAIAAwAAABAI/wA8/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAREP/aAAgBAwEBPxACm2Trn//EABcRAQEBAQAAAAAAAAAAAAAAAAERABD/2gAIAQIBAT8QVvEI0N//xAAfEAEBAAMAAQUBAAAAAAAAAAABEQAhMUEQUXGBkaH/2gAIAQEAAT8QDNCIKUyvjuXs7UF1YE8UkxWCxpoPKe+EsIFUI26P76HnUvAPrI2CV2LM4QPJL+5//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;profile-photo&quot;
+        title=&quot;profile-photo&quot;
+        src=&quot;/static/c8f53ec9997e7f51f587289b2816f678/828fb/potrait.jpg&quot;
+        srcset=&quot;/static/c8f53ec9997e7f51f587289b2816f678/ff44c/potrait.jpg 158w,
+/static/c8f53ec9997e7f51f587289b2816f678/a6688/potrait.jpg 315w,
+/static/c8f53ec9997e7f51f587289b2816f678/828fb/potrait.jpg 630w,
+/static/c8f53ec9997e7f51f587289b2816f678/0ede0/potrait.jpg 945w,
+/static/c8f53ec9997e7f51f587289b2816f678/3ac88/potrait.jpg 1260w,
+/static/c8f53ec9997e7f51f587289b2816f678/377b2/potrait.jpg 1980w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The following are long-term takeaways from this class:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;test first, test during, test after; test, test, test&lt;/li&gt;
+&lt;li&gt;when designing algorithms, demand the weakest capabilities (e.g., iterable vs. indexable)&lt;/li&gt;
+&lt;li&gt;when designing containers, provide the strongest capabilities (e.g., indexable vs. iterable)&lt;/li&gt;
+&lt;li&gt;build decorators on top of containers, iterators, and functions utilize the benefits of being lazy (e.g., yield)&lt;/li&gt;
+&lt;li&gt;always look for reuse and symmetry in your code collaboration is essential to the quality of your code and to your well-being in producing it&lt;/li&gt;
+&lt;li&gt;refactor, refactor, refactor&lt;/li&gt;
+&lt;li&gt;make your code beautiful&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;How well do you think the course conveyed those takeaways?&lt;/h3&gt;
+&lt;p&gt;Testing felt kind of pointless due to the small project scope and we only made rudimentary frontend and backend tests as filler. My team did not learn about how to setup and teardown a testing database or what to test on frontend tests.&lt;/p&gt;
+&lt;p&gt;I agree with the importance of designing flexible algorithms, containers, using decorators, and writing good code though. They are important concepts.&lt;/p&gt;
+&lt;h3&gt;Were there any other particular takeaways for you?&lt;/h3&gt;
+&lt;p&gt;I think the emphasis on using weak capabilities in algorithms adds a new dimension to writing maintainable code. Unlike competitive programming where everything is based on efficient data structures, industry software also cares about flexibility and extensiblity. These are the big concepts I learned in this class.&lt;/p&gt;
+&lt;h3&gt;How did you feel about cold calling?&lt;/h3&gt;
+&lt;p&gt;The only problem with cold calling is that it restricts where I can take my class. I can only take classes in quiet spaces like study rooms or my own room because of the risk of being cold-called. I wish I had the flexibility to take the class in more lively areas with some background noise.&lt;/p&gt;
+&lt;h3&gt;How did you feel about specifications grading?&lt;/h3&gt;
+&lt;p&gt;The requirements are reasonable but the restrictions on token usage for each category induces claustrophobia. I wished this class was heavy due to the demand of each project phase, but instead the class is hard because of all the restrictions with token usage and how little leeway students before they mess up.&lt;/p&gt;
+&lt;h3&gt;How did you feel about help sessions and office hours?&lt;/h3&gt;
+&lt;p&gt;Help sessions and office hours were chill! I liked the in-person component.&lt;/p&gt;
+&lt;h3&gt;How did you feel about the support from the TAs?&lt;/h3&gt;
+&lt;p&gt;The TAs were definitely the hardest working I have ever seen. I appreciate everything that Caitlin and Jefferson have done to help all the teams get through every phase!&lt;/p&gt;
+&lt;h3&gt;What required tool did you not know and now find very useful?&lt;/h3&gt;
+&lt;p&gt;This was the first time I used Gitlab pipelines and think it is a neat feature. Pipelines force you to write code that can be checked for exoected behavior automatically and is easy to setup.&lt;/p&gt;
+&lt;h3&gt;What’s the most helpful Web dev tool that your group used that was not required?&lt;/h3&gt;
+&lt;p&gt;VSCode with LiveShare and Github CoPilot helped tremendously. VSCode allowed me to collaborate and debug with my teammates remotely while CoPilot provided auto-complete that completed entire blocks of code for me.&lt;/p&gt;
+&lt;h3&gt;How did you feel about your group having to self-teach many, many technologies?&lt;/h3&gt;
+&lt;p&gt;I had no problem learning everything because learning technologies is a journey and I have progressed further regardless of whether it was in or out of lecture. In fact, a lecture cannot possibly teach you how to debug esoteric Typescript errors so might as well let students learn to solve those themselves, right?&lt;/p&gt;
+&lt;h3&gt;Give me your suggestions for improving the course, but apologies in advance; specifications grading will remain.&lt;/h3&gt;
+&lt;p&gt;Forcing students to come to lectures to learn basic python as slow as possible seemed like a waste of tuition money. I am fine with the lectures-project disconnect but given a host of interesting topics such as orchestration platforms (Kubernetes, Ansible, jenkins, etc.), security, authentication, etc. that make great lecture topics, it is unfair to spend so much of the semester on an easily learnable language.&lt;/p&gt;
+&lt;p&gt;Specifications grading is fine, but the restriction of token usage for each category is not. Since most grades are either an &lt;strong&gt;M&lt;/strong&gt; or &lt;strong&gt;N&lt;/strong&gt;, we need more leeway than being able to resubmit papers once per term or blogs twice a term.&lt;/p&gt;
+&lt;p&gt;The lecture quizzes were terribly conducted. Canvas cannot enforce the 4-minute mark restriction and the professor voided your submission if you were off by 1 second. It took weeks before Downing added a better, but still haphazard cutoff.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;To the instructors&lt;/em&gt;: Please try to keep student’s interests in mind because it really felt like the professor followed rules above fairness.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So long, and thanks for all the fish!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Software Engineering: Post 13]]></title><description><![CDATA[What did you do this past week? I took a break after spectacularly completing my projects for SWE, Neural Nets, Applied Stats, and AI which…]]></description><link>https://pranavrayudu.github.io/cs373-fall21-post-13/</link><guid isPermaLink="false">https://pranavrayudu.github.io/cs373-fall21-post-13/</guid><pubDate>Sun, 21 Nov 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
